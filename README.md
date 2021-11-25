@@ -1,5 +1,7 @@
 # Diplomado Infografía - Módulo 3 - Clase 3 (25/11/21)
 
+Explicación sencilla Javascript: https://jsparagatos.com/
+
 # HTML, SVG, CSS y JavaScript
 
 - - - - - - - 
