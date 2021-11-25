@@ -1,6 +1,6 @@
-# HTML, SVG, CSS y JavaScript
+# Diplomado Infografía - Módulo 3 - Clase 3 (25/11/21)
 
-### Clase 3 → 25-11-2021
+# HTML, SVG, CSS y JavaScript
 
 - - - - - - - 
 
