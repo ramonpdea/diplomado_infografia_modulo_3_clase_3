@@ -119,8 +119,9 @@
                         </audio>
                         <div class="form-check form-switch text-center">
                             <input class="form-check-input" type="checkbox" id="elSwitch">
-                            <label class="form-check-label" for="elSwitch">Escucha al chucao</label>
+                            <label class="form-check-label" for="elSwitch">Escucha al gibón</label>
                         </div>
+                        <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1355731432&color=%23ff5500"></iframe>
                     </div>
                     <!--Suena con JavaScript, ver líneas 267 a 278--> 
                 </div>
@@ -279,6 +280,7 @@
         <!--CON EL SIGUIENTE SCRIPT HAGO CANTAR AL CHUCAO-->
         <script>
             var canto = document.getElementById("elAudio"); 
+            var cantogibon = new Audio("https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/141459835&color=7c8961&hide_related=true&show_comments=false&show_teaser=false");
             var boton = document.getElementById("elSwitch");
             boton.addEventListener('change', function() {
                 if (this.checked) {
